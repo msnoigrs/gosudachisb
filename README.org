@@ -32,6 +32,8 @@ gosudachisbは、[[https://github.com/msnoigrs/gosudachi][gosudachi]]を使う�
 - gosudachisbcore
 - gosudachisbfull
 
+以下を実行してください。
+
 #+begin_example
 git clone https://github.com/msnoigrs/gosudachisb.git
 cd gosudachisb/gosudachisb
@@ -85,7 +87,7 @@ EOS
 
 ** gosudachiclisb
 
-[[https://github.com/msnoigrs/gosudachi][gosudachi]]のgosudachicliコマンドのシンブルバイナリバージョンです。同梱しているシステム辞書を強制的に使用することを除いて、オプションや動作はまったく同じです。
+[[https://github.com/msnoigrs/gosudachi][gosudachi]]のgosudachicliコマンドのシングルバイナリバージョンです。同梱しているシステム辞書を強制的に使用することを除いて、オプションや動作はまったく同じです。
 
 *** ビルド方法
 
@@ -93,6 +95,8 @@ EOS
 
 - gosudachiclisbcore
 - gosudachiclisbfull
+
+以下を実行してください。
 
 #+begin_example
 git clone https://github.com/msnoigrs/gosudachisb.git

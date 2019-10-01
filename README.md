@@ -23,6 +23,8 @@ gosudachisbは、[gosudachi](https://github.com/msnoigrs/gosudachi)を使うサ�
 -   gosudachisbcore
 -   gosudachisbfull
 
+以下を実行してください。
+
     git clone https://github.com/msnoigrs/gosudachisb.git
     cd gosudachisb/gosudachisb
     bash ./build.sh
@@ -72,7 +74,7 @@ windows版のバイナリを生成することもできます。
 
 ## gosudachiclisb
 
-[gosudachi](https://github.com/msnoigrs/gosudachi)のgosudachicliコマンドのシンブルバイナリバージョンです。同梱しているシステム辞書を強制的に使用することを除いて、オプションや動作はまったく同じです。
+[gosudachi](https://github.com/msnoigrs/gosudachi)のgosudachicliコマンドのシングルバイナリバージョンです。同梱しているシステム辞書を強制的に使用することを除いて、オプションや動作はまったく同じです。
 
 
 ### ビルド方法
@@ -81,6 +83,8 @@ windows版のバイナリを生成することもできます。
 
 -   gosudachiclisbcore
 -   gosudachiclisbfull
+
+以下を実行してください。
 
     git clone https://github.com/msnoigrs/gosudachisb.git
     cd gosudachisb/gosudachiclisb

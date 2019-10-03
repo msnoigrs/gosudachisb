@@ -3,8 +3,7 @@ module github.com/msnoigrs/gosudachisb
 go 1.13
 
 require (
-	bou.ke/monkey v1.0.1 // indirect
-	github.com/ichiban/assets v0.0.0-20181130073859-0633e2415c78
+	github.com/ichiban/assets v0.1.0
 	github.com/msnoigrs/gosudachi v0.0.0-20190930090717-321a0735c05f
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
